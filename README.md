@@ -7,6 +7,6 @@ The files in this repository is the Prsentation developed by the team and then m
 
 [Presentation](https://github.com/2510shea/Cybersecurity-Project-2/blob/main/Week%2020_%20Project%202-Shea%20Padilla%202.0.pdf)
 
-[Network Toplogy](Playbooks/Ansible_config.yml)
+[Network Toplogy](https://github.com/2510shea/Cybersecurity-Project-2/blob/main/Network%20Topology.png)
 
 This project consited of the team doing both Red and Blue team activities and then putting all of our findings into a presentation software and then presenting to the class about the proccess, strategies and recommendations. 
